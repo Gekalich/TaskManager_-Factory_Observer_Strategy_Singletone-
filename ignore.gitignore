@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Build directories
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.ilk
+
+# Executables and libs
+*.exe
+*.dll
+*.lib
+*.exp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Others
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.class
+*.pyc
+*.DS_Store
